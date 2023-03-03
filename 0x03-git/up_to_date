@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash
 git pull
+=======
+git
+>>>>>>> 92c75e9cded5ca1575ac89fdbbf9d57a2a594cd4
